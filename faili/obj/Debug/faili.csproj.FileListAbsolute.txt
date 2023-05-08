@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\bin\Debug\faili.exe.config
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\bin\Debug\faili.exe
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\bin\Debug\faili.pdb
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.Form1.resources
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.Form2.resources
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.Properties.Resources.resources
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.csproj.GenerateResource.cache
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.exe
+C:\Users\User\Desktop\csharp\uzd1\faili\faili\obj\Debug\faili.pdb
